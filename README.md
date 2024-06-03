@@ -1,2 +1,2 @@
-# python-for-analytic-project
-This is my project python program
+# Python for analytic project
+This is my exercise and project python program for data analyst
