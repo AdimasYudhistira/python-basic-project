@@ -1,2 +1,2 @@
 # Python for analytic project
-This is my exercise and project python program for data analyst
+This is my practice and project python basic program for data analyst
